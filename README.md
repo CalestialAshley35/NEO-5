@@ -152,6 +152,3 @@ This program loads two values into registers, adds them together, and stores the
 ## Conclusion
 
 This emulator allows users to simulate the operation of a custom 13-bit CPU, execute assembly programs, and interact with files and perform basic arithmetic. It's a great way to understand low-level CPU architecture, memory management, and the inner workings of simple virtual machines.
-
-This markdown version uses code blocks for commands and program examples.
-
